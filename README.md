@@ -8,5 +8,5 @@ OSeMBE was modified to keep only Germany, Poland, Lithuania, Norway, Denmark and
 
 The datafile, along with an OSeMOSYS model file, can be converted into a Linear Program .lp file by using the GLPK Solver https://anaconda.org/conda-forge/glpk and then solved using a free or commercial solver such as IBM ILOG CPLEX Optimization Studio.
 
-##Licensing
+## Licensing
 Following the licensing approach for OSeMBE, this datafile is released under the terms of a CC-BY-4.0 International License Agreement. The license text can be found in the LICENSE.
